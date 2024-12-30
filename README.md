@@ -6,7 +6,7 @@ I'm a passionate developer from Brazil who loves to create innovative solutions 
 - 📍 **Location**: Brazil
 - 🌱 **Currently Learning**: Advanced Python
 - 💬 **Ask me about**: Python, Automation, and APIs
-- 📫 **How to reach me**: [geovane@example.com](mailto:geovane@example.com)
+- 📫 **How to reach me**: [geovanethecoder@gmail.com](mailto:geovanethecoder@gmail.com)
 - ⚡ **Fun fact**: I'm a huge fan of random dog pictures 🐶
 
 ## Skills
