@@ -1,7 +1,5 @@
 # 👋 Hello, I'm GeovaneDev54!
 
-![Profile Banner](path/to/banner/image.png) <!-- Você pode adicionar um banner aqui, se quiser -->
-
 ## About Me
 I'm a passionate developer from Brazil who loves to create innovative solutions and explore new technologies. With a strong focus on Python and automation, I enjoy working on projects that make everyday tasks easier and more efficient.
 
