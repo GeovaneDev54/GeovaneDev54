@@ -11,7 +11,7 @@ I'm a passionate developer from Brazil who loves to create innovative solutions 
 
 ## Skills
 - **Programming Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: Django, Flask, React, PySimpleGUI
+- **Frameworks & Libraries**: Flask, React, PySimpleGUI
 
 ## Projects
 Here are some of my favorite projects:
